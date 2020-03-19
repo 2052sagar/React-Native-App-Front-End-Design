@@ -20,7 +20,6 @@ export default class Headings extends Component {
 const styles = StyleSheet.create({
     container: {
         backgroundColor: '#ff7550',
-        borderRadius: 8,
         elevation: 6,
     }
 })
